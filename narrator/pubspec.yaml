@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.2.2  # For API calls
-  flutter_tts: ^3.6.2  # For text-to-speech
+  flutter_tts: ^3.6.3  # For text-to-speech
   just_audio: ^0.9.7  # For audio playback
   cupertino_icons: ^1.0.8  # iOS-style icons
   dio: ^4.0.6
