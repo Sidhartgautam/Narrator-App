@@ -8,7 +8,7 @@ import 'package:narrator/main.dart';
 void main() {
   testWidgets('Narration screen loads and widgets are functional', (WidgetTester tester) async {
     // Build the NarrateApp widget and trigger a frame.
-    await tester.pumpWidget(const NarrateApp());
+    await tester.pumpWidget(const NarratorApp());
 
     // Verify that the text field is present.
     expect(find.byType(TextField), findsOneWidget);
