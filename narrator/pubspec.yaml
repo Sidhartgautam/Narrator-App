@@ -16,6 +16,9 @@ dependencies:
   just_audio: ^0.9.7  # For audio playback
   cupertino_icons: ^1.0.8  # iOS-style icons
   dio: ^4.0.6
+  translator: ^1.0.3+1
+  speech_to_text: ^7.0.0
+  get: ^4.6.6
 
 dev_dependencies:
   flutter_test:
